@@ -1,10 +1,17 @@
 .App {
   text-align: center;
+  background: #375f7a;
+}
+
+h1 {
+  font-family: 'Bigelow Rules', cursive;
+  color: #95dada;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  font-size: 20rem;
 }
 
 @media (prefers-reduced-motion: no-preference) {
